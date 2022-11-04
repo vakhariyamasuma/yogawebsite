@@ -1,0 +1,249 @@
+.web-info{
+	background: #343148;
+	color: white;
+	font-size: 10px;
+}
+.info{
+	font-size: 12px;
+}
+.section-1{
+	background: #F7CAC9;
+	
+
+}
+.submenu{
+	background: #DBB3B3;
+
+}
+.title{
+	    color: white;
+    font-weight: bold;
+    font-size: 32px;
+}
+.subtitle{
+	    color: black;
+    font-weight: bold;
+    font-size: 32px;
+}
+.menu-list{
+	color: white;
+	font-size: 14px;
+	text-decoration: none;
+	margin-top:15px;
+	margin-left:9px;
+	line-height: 4;
+
+}
+.btn-primary{
+	background: #343148;
+}
+.btn-outline-primary{
+	border: 2px solid #343148;
+	color:#343148; 
+}
+
+
+.btn-primary:hover{
+	background: #343148;
+}
+.hero{
+	height: 295px;
+}
+.section-2{
+
+}
+.clr{
+    color: #343148;
+}
+.sport{
+	height: 100px;
+	width: 100px;
+}
+.circle{
+	height: 80px;
+	width: 80px;
+	margin: auto;
+	margin-top: 20px;
+	background:#343148;
+}
+.card1
+{
+	/*width: 280px;
+	margin-left:200px ;*/
+	
+}
+.card2{
+	
+    background: #343148;
+}
+
+
+
+.white{
+	color: white;
+}
+.text{
+
+	color: #F7CAC9; 
+}
+
+.top{
+	margin-top: 5px;
+}
+.butn{
+	margin: auto;
+}
+.card6{
+     /* width: 280px;
+
+    margin-left: auto;*/
+}
+.butn2{
+	margin-left: 200px;
+}
+.discount{
+	color: red;
+	font-size: 50px;
+	font-weight: bold;
+}
+.fz{
+	font-size: 28px;
+	font-weight: bold;
+}
+.card-chart{
+	/*margin-left:100px;*/
+	
+}
+.card-chart2{
+	
+	/*float: left;
+	margin-right:px;*/
+
+}
+.c-2{
+	background:#343148;
+	color:#F7CAC9;
+
+
+}
+.card-chart3{
+	/*float: left;
+	margin-right:px;*/
+}
+.s-d{
+     
+     width: 65px;
+     background:#F7CAC9;
+     position: absolute;
+    margin-left: 17vw;
+    margin-top: -3.10vh;
+
+}
+.b-2{
+	color: black;
+}
+
+.bg{
+    
+    width: 100%;
+    
+    padding: 90px 0;
+    background: linear-gradient(rgba(247, 202, 201, .7), rgba(247, 202, 201, .7)), url(./img/discount-bg.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+   
+}
+
+.b-c{
+	    margin-top: -40px;
+    border: 7px solid white;
+}
+.footer{
+	background: black;
+	width: 100%;
+}
+.ft-bg{
+	background-image: url("./img/footer-bg.png");
+	background-blend-mode: overlay;
+    background-color:#2E2C40;
+    background-repeat:no-repeat;
+    background-size:350px 350px;
+    background-position:center;
+
+   
+
+}
+.divider{
+	border-top: 1px solid white;
+	margin-top: 120px;
+}
+
+.owl-dot {
+    display: inline-block;
+    margin: 0 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #F7CAC9;
+}
+
+.owl-dot.active {
+    background: #343148;
+}
+
+.class-teacher {
+    position: relative;
+    height: 40px;
+    margin-top: -0px;
+    /*margin-bottom: 20px;*/
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    border-radius: 40px;
+}
+
+.class-teacher img {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background: #F7CAC9;
+}
+
+ .class-teacher a {
+    color: #F7CAC9;
+    background: #343148;
+}
+ .class-teacher a {
+    width: 40px;
+    height: 40px;
+    padding: 0 0 3px 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 100;
+    color: #343148;
+    background: #F7CAC9;
+    border-radius: 40px;
+    transition: .3s;
+    text-decoration: none;
+}
+
+.class-teacher h3 {
+    width: calc(100% - 95px);
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 0 0 15px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.butn-2{
+	width: 100px;
+}
+
+
